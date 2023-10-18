@@ -1,6 +1,6 @@
 # 2-Projeto
 
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Curso Explorer </h1>
 
 <p align="center">
 Curso Explorer da RocktSeat.
