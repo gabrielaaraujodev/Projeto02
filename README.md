@@ -1,6 +1,10 @@
 # 2-Projeto
 
+<<<<<<< HEAD
 <h1 align="center"> DevLinks </h1>
+=======
+<h1 align="center"> Projeto02 </h1>
+>>>>>>> 17efc943050cc0b7d179ed4aa8df849f65c9a340
 
 <p align="center">
 Projeto do curso Explorer promovido pela Rocktseat
@@ -9,6 +13,10 @@ Projeto do curso Explorer promovido pela Rocktseat
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<<<<<<< HEAD
+=======
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+>>>>>>> 17efc943050cc0b7d179ed4aa8df849f65c9a340
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,10 +26,13 @@ Projeto do curso Explorer promovido pela Rocktseat
 
 <br>
 
+<<<<<<< HEAD
 <p align="center">
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
+=======
+>>>>>>> 17efc943050cc0b7d179ed4aa8df849f65c9a340
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
