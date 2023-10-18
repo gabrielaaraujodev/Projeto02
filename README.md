@@ -3,7 +3,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Curso Explorer da RocktSeat
+Curso Explorer da RocktSeat.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Curso Explorer da RocktSeat
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="imagens/image 1.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
